@@ -1,0 +1,1 @@
+We are looking for a Python Developer with experience in web frameworks such as Django or Flask, RESTful APIs, and data analysis. The candidate should have hands-on experience with Git, SQL, and cloud services like AWS. Strong communication and problem-solving skills are a must.
